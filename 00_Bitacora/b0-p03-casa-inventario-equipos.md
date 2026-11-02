@@ -46,8 +46,8 @@ Crear una bóveda independiente en Obsidian (`Boveda_Inventario_Casa`) con su re
 - **¿Cómo comprobaste la subida de la bitácora y por qué su cierre ocurre después del vídeo?** Comprobando la nota subida en GitHub y verificando que abrieran los enlaces de YouTube[7]. Ocurre después porque la grabación debe mostrar el proceso de los tres commits terminados antes de incluir la URL del vídeo finalizado en la bitácora
 ## 🔗 Enlaces
 
-- **Vídeo de esta fase:** https://youtu.be/XXXXXXXXXXX
-- **Playlist:** B0_Prerrequisitos
+- **Vídeo de esta fase:** https://youtu.be/x_BosIWOdf8?si=_LgeGuFebyeGQohy
+- **Playlist:** https://www.youtube.com/playlist?list=PLaMM-WHiImLo
 
 ## 💭 Dudas / a repasar
 
